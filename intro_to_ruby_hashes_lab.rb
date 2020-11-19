@@ -29,7 +29,12 @@ def monopoly_with_third_tier
     :three_piece_owned => 100,
     :four_piece_owned => 200
   }, 
-  :names => {}
+  :names => {
+    :reading_railroads => {},
+    :pennsylvania_railroads => {},
+    :b_and_o_railroad => {},
+    :shortline_railroad => {}
+  }
   }
     
   }
